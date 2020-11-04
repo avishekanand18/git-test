@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/avishekanand18/git-test/issues"
   },
-  "homepage": "https://github.com/avishekanand18/git-test#readme"
+  "homepage": "https://github.com/avishekanand18/git-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }

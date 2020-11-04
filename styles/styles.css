@@ -1,0 +1,24 @@
+.jumbotron{
+	background-color: #ae34eb;
+	color: floralwhite;
+}
+.footer{
+	background-color: #d0c5d6;
+}
+
+.history{
+	margin: 50px auto;
+	padding: 20px 0px 20px 0px;
+	border-bottom-color: #ecebed;
+	border-bottom-width: 1px;
+	border-bottom-style: solid; 
+}
+
+.cl{
+	margin: 50px auto;
+	padding: 20px 0px 20px 0px;
+}
+.foot{
+	margin: 10px auto;
+	padding: 20px 0 20px 0;
+}
