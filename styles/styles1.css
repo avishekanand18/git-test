@@ -36,3 +36,11 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.reservation_form_head{
+    background-color: #fca903;
+}
+.reservation_form{
+    padding:70px 30px 70px 30px;
+}
+
